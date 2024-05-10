@@ -37,7 +37,7 @@ python script_name.py
 
 ## Report
 
-See `report/Image_Processing_Assignment.pdf` for a full explanation of the methodology and results.
+See `report/Image Processing Report.pdf` for a full explanation of the methodology and results.
 
 ## License
 
